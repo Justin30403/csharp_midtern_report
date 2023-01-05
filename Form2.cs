@@ -71,10 +71,5 @@ namespace mid_tern_report
         {
 
         }
-
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
